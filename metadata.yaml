@@ -1,9 +1,13 @@
 _repo: The-Lost-Mine-of-the-Amazon-A-Hal-Keen-Mystery-Story_49989
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Salg, Bert
     gutenberg_agent_id: '45644'
     url: http://www.gutenberg.org/2009/agents/45644
+covers:
+- cover_type: archival
+  image_path: 49989-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Lloyd, Hugh
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49989#The-Lost-Mine-of-the-Amazon-A-Hal-Keen-Mystery-Story
 gutenberg_issued: '2015-09-17'
 gutenberg_type: Text
 identifiers:
